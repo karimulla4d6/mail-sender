@@ -8,7 +8,7 @@ public class SpringBootMailAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootMailAppApplication.class, args);
-		System.out.println("Karimulla");
+		
 	}
 
 }
